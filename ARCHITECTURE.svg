@@ -1,0 +1,56 @@
+<svg width="1000" height="800" viewBox="0 0 1000 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="800" fill="#0A0E14" />
+  
+  <!-- Sacred Systems Philosophy Accents -->
+  <circle cx="500" cy="400" r="350" fill="none" stroke="#1E2A38" stroke-width="1" stroke-dasharray="10,5" />
+  <circle cx="500" cy="400" r="380" fill="none" stroke="#C5A059" stroke-width="0.5" opacity="0.3" />
+
+  <!-- Flutter Application Core -->
+  <rect x="300" y="250" width="400" height="300" rx="20" fill="#161B22" stroke="#C5A059" stroke-width="2" />
+  <text x="500" y="285" font-family="Arial, sans-serif" font-size="22" fill="#C5A059" text-anchor="middle" font-weight="bold">FLUTTER CORE (DART)</text>
+  
+  <!-- Internal Components -->
+  <rect x="330" y="310" width="160" height="50" rx="10" fill="#21262D" stroke="#30363D" stroke-width="1" />
+  <text x="410" y="340" font-family="Arial, sans-serif" font-size="14" fill="#8B949E" text-anchor="middle">Riverpod State</text>
+  
+  <rect x="510" y="310" width="160" height="50" rx="10" fill="#21262D" stroke="#30363D" stroke-width="1" />
+  <text x="590" y="340" font-family="Arial, sans-serif" font-size="14" fill="#8B949E" text-anchor="middle">Prayer Engine (adhan)</text>
+  
+  <rect x="330" y="380" width="340" height="50" rx="10" fill="#21262D" stroke="#30363D" stroke-width="1" />
+  <text x="500" y="410" font-family="Arial, sans-serif" font-size="14" fill="#8B949E" text-anchor="middle">Isar Database (Local Storage)</text>
+  
+  <rect x="330" y="450" width="340" height="50" rx="10" fill="#C5A059" fill-opacity="0.1" stroke="#C5A059" stroke-width="1" />
+  <text x="500" y="480" font-family="Arial, sans-serif" font-size="16" fill="#C5A059" text-anchor="middle" font-weight="bold">NATIVE BRIDGE (MethodChannels)</text>
+
+  <!-- External Sensors & Input -->
+  <circle cx="150" cy="300" r="60" fill="#161B22" stroke="#3FB950" stroke-width="1" />
+  <text x="150" y="305" font-family="Arial, sans-serif" font-size="14" fill="#3FB950" text-anchor="middle">GPS (Geolocator)</text>
+  
+  <circle cx="150" cy="450" r="60" fill="#161B22" stroke="#3FB950" stroke-width="1" />
+  <text x="150" y="455" font-family="Arial, sans-serif" font-size="14" fill="#3FB950" text-anchor="middle">Compass Sensor</text>
+
+  <!-- Android Layer -->
+  <rect x="750" y="150" width="200" height="150" rx="15" fill="#161B22" stroke="#A4C639" stroke-width="1" />
+  <text x="850" y="180" font-family="Arial, sans-serif" font-size="18" fill="#A4C639" text-anchor="middle" font-weight="bold">ANDROID</text>
+  <text x="850" y="210" font-family="Arial, sans-serif" font-size="12" fill="#8B949E" text-anchor="middle">Accessibility Service</text>
+  <text x="850" y="235" font-family="Arial, sans-serif" font-size="12" fill="#8B949E" text-anchor="middle">Overlay UI</text>
+  <text x="850" y="260" font-family="Arial, sans-serif" font-size="12" fill="#8B949E" text-anchor="middle">WorkManager</text>
+
+  <!-- iOS Layer -->
+  <rect x="750" y="500" width="200" height="150" rx="15" fill="#161B22" stroke="#007AFF" stroke-width="1" />
+  <text x="850" y="530" font-family="Arial, sans-serif" font-size="18" fill="#007AFF" text-anchor="middle" font-weight="bold">iOS</text>
+  <text x="850" y="560" font-family="Arial, sans-serif" font-size="12" fill="#8B949E" text-anchor="middle">FamilyControls</text>
+  <text x="850" y="585" font-family="Arial, sans-serif" font-size="12" fill="#8B949E" text-anchor="middle">ManagedSettings</text>
+  <text x="850" y="610" font-family="Arial, sans-serif" font-size="12" fill="#8B949E" text-anchor="middle">DeviceActivity</text>
+
+  <!-- Connections -->
+  <path d="M 210 300 L 300 400" stroke="#30363D" stroke-width="1" fill="none" />
+  <path d="M 210 450 L 300 400" stroke="#30363D" stroke-width="1" fill="none" />
+  <path d="M 670 475 L 750 250" stroke="#C5A059" stroke-width="1" opacity="0.5" fill="none" />
+  <path d="M 670 475 L 750 550" stroke="#C5A059" stroke-width="1" opacity="0.5" fill="none" />
+
+  <!-- Title -->
+  <text x="50" y="50" font-family="Arial, sans-serif" font-size="32" fill="#C5A059" font-weight="bold">PRAYER SCREEN TIME</text>
+  <text x="50" y="80" font-family="Arial, sans-serif" font-size="16" fill="#8B949E">Technical Architecture: Sacred Systems</text>
+</svg>

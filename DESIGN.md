@@ -1,0 +1,75 @@
+# Prayer Screen Time - Design Files
+
+This project uses the **"Ethereal Calm"** design system created by Stitch. Below are the direct download links to the generated design files (in raw HTML format) and their corresponding mockups.
+
+## Generated Screens
+
+### 1. Main Tracker (Light Mode)
+*   **Screenshot**: [View Image](https://lh3.googleusercontent.com/aida/ADBb0uicvwwknVFn8PrZ6EkdGeh0LEMfEvBd5er5ts0Zx1esgeoyNiIP8g0fYZXiOSkilMKN1R_OwVwvykKDgcq4SJXiFpjTAUL6vdoBlyVpPNCq-aunXRxJuzVRZKC6fFis2KIyYhf3jm5i9Va3ysGzBZs-7BLOE5BAb2X-BuG9wChsf00Em388SD5gP4Dyv11WA1Otu9p0AVu6qcJdg4itpoUnK_ITXZ__fE0Ir3Ara42ASVTJWtQ4A_3mkQo5)
+*   **HTML Design File**: [Download HTML](https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzQ5N2RlZjY4ZmRhMzQ3ZTI4MjZhMTVkODBjZTNlYjcyEgsSBxCNj8ndzBQYAZIBJAoKcHJvamVjdF9pZBIWQhQxMjQxNjE5NjE2MTI4NjUzMTk0Nw&filename=&opi=96797242)
+
+### 2. Daily Reflections Journal
+*   **Screenshot**: [View Image](https://lh3.googleusercontent.com/aida/ADBb0ui2dKAHg88de2nX2J-X8fPJGbvw68t2yzBjiyY-9rSfxPy8d1FF2PjrpchpLRtLYJNLiRQwdOxvCjptkpRkAVQVyeJJzjdJeE5J5fwdFDUgIY_QenWYe94is9pMxWj4XNBwuqcmc0yMWVq5Z2xBd_Ry6sG7eRGrAqXxSFY7r-qTujKDsBjKPcW8d2E-bvZAx1lZWGHtg3wcW9kRq1C_0Uf7nEIL7zGHd8K_fmjobJ5fphx6o_79kxZ-PM2c)
+*   **HTML Design File**: [Download HTML](https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzY2Yjg0ZDFmYmFiNDRkZmVhODlhYzgzNzkyMzNkMDNhEgsSBxCNj8ndzBQYAZIBJAoKcHJvamVjdF9pZBIWQhQxMjQxNjE5NjE2MTI4NjUzMTk0Nw&filename=&opi=96797242)
+
+### 3. Dedicated Daily Prayer Dashboard (Coming Soon Masjid button)
+*   **Screenshot**: [View Image](https://lh3.googleusercontent.com/aida/ADBb0uiWLuGSC3651lP5ZIKlrf-r7tvxiWxHyNG7uip95A03BZMcaFYoXo8aljmTegG25E6HL-DGvyJSqJe0gLdvZgjtURftn1NHE8nbk9OzHBaT0vtGpMTGwTHrr8-SwRV9Wr5RShnPDmlXQ7JVS3QGICU0rNNtXvpLcPpC5bJljtqkA8O4wbU3NItDY7AQe1FqVhp5eJG5vNvlsgQLqLwrBgv-qzIGrR_cVjpt5Ceu4VBb8EKYNKtokG5cFCGv)
+*   **HTML Design File**: [Download HTML](https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzFkNTY4YzE5NDU0YzRmNWQ5MGM0ZjZhMTgzZWIyZGQ1EgsSBxCNj8ndzBQYAZIBJAoKcHJvamVjdF9pZBIWQhQxMjQxNjE5NjE2MTI4NjUzMTk0Nw&filename=&opi=96797242)
+
+### 4. Main Tracker (Dark Mode)
+*   **Screenshot**: [View Image](https://lh3.googleusercontent.com/aida/ADBb0uhEzs-K__8XnJEYbcU03PadhQbQC-lvlFqNi9KXLpdbw4oU7O4c8lAUJUMC91iESfdRlCXll4Gg-EAE-g2BFUioNwxzs2ON_WA33mK6ORl2VL9yhdEoboPogEd4_wR5HqbPnqIwwiaOfB20PQS7bjBiXWUkp8_cQHQM-nVh394qODokkjoSuz-GugC57b9ce9lAAFLrnSPd_OspjxETdTVm_gG-jDJTmxk-sCyh_FItn0cHZflvSwujYVY)
+*   **HTML Design File**: [Download HTML](https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzI3NmM3OGIxZTllNjQwMTZhZjg0NDMyYTc3YTFmZjE2EgsSBxCNj8ndzBQYAZIBJAoKcHJvamVjdF9pZBIWQhQxMjQxNjE5NjE2MTI4NjUzMTk0Nw&filename=&opi=96797242)
+
+### 5. Daily Reflections Journal (Dark Mode)
+*   **Screenshot**: [View Image](https://lh3.googleusercontent.com/aida/ADBb0uh62gF_UNepAWwP5klNVigwkcv_bzuSskcTVjiln14TP13PBFZzQxPItwTJpYGDsF6mZnD4oWrU3P-VxAFIGxJRTAODT5nGGQniuZSuuf54H7UWfp_smal3XbgJOpkEkEl5ncca-u-uI7vr91q6fCwKgVe01s0Sxv8H4AeFkkIh-HgGOo8w26ZSnQEZp6PsT2mTR0HmE7IAEK2oypPXkIH9bEaX1fFOTnqDzkEUSa7xYINscVPoLXCKV-di)
+*   **HTML Design File**: [Download HTML](https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2Q5MzI3MTU2NWMzYjRmODU4NDM1MjUyMDRmNzEyNGVjEgsSBxCNj8ndzBQYAZIBJAoKcHJvamVjdF9pZBIWQhQxMjQxNjE5NjE2MTI4NjUzMTk0Nw&filename=&opi=96797242)
+
+### 6. Notification Settings
+*   **Screenshot**: [View Image](https://lh3.googleusercontent.com/aida/ADBb0uhpkj3tzVy6EbtsmdxYm1teVM7QoPHRO8tMRAqJbeKmdm7QSzwS44j-VVSL2tN5EIGxLopa13n-EYhMQYV97EYtiYpGPTEFlMoQUOr6pPmv-qj7no9rzGGx7oTyJU_ArXVR_3MVS5Rh6ZgwplnsT5tjOzep-5Q40G-FN6PKjQ5l4H0B7kTsJY4B3wkFQYPWyhJiSDCPqIA6BA1R4QOB3BxD-7B0IqHSu2xVZhPEcNNWym6XfatiZvp4C0s)
+*   **HTML Design File**: [Download HTML](https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2E3ZDE3OWVmOTY3MjRmMWM4NDYyYjU2MmEyZDg3YTEwEgsSBxCNj8ndzBQYAZIBJAoKcHJvamVjdF9pZBIWQhQxMjQxNjE5NjE2MTI4NjUzMTk0Nw&filename=&opi=96797242)
+
+## Ethereal Calm Design System - Color Palette
+
+Below is the extracted theme format for integration into Flutter's `ColorScheme`.
+
+```json
+{
+  "theme": "Ethereal Calm",
+  "fonts": {
+    "headlineFont": "Noto Serif",
+    "bodyFont": "Manrope",
+    "labelFont": "Manrope"
+  },
+  "namedColors": {
+    "background": "#fbf9f4",
+    "error": "#ba1a1a",
+    "error_container": "#ffdad6",
+    "inverse_on_surface": "#f2f1ec",
+    "inverse_primary": "#91d2d6",
+    "inverse_surface": "#30312e",
+    "on_background": "#1b1c19",
+    "on_error": "#ffffff",
+    "on_error_container": "#93000a",
+    "on_primary": "#ffffff",
+    "on_primary_container": "#f3ffff",
+    "on_primary_fixed": "#002021",
+    "on_primary_fixed_variant": "#004f53",
+    "on_secondary": "#ffffff",
+    "on_secondary_container": "#515d7e",
+    "on_secondary_fixed": "#0d1a38",
+    "on_secondary_fixed_variant": "#3a4666",
+    "on_surface": "#1b1c19",
+    "on_surface_variant": "#3f4849",
+    "outline": "#6f7979",
+    "outline_variant": "#bfc8c9",
+    "primary": "#1f6569",
+    "primary_container": "#3d7e82",
+    "secondary": "#525e7f",
+    "secondary_container": "#cad6fd",
+    "surface": "#fbf9f4",
+    "surface_container": "#f0eee9",
+    "surface_container_highest": "#e4e2dd",
+    "tertiary": "#695a3e"
+  }
+}
+```
