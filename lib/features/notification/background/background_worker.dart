@@ -1,3 +1,4 @@
+import 'dart:io';
 import 'package:workmanager/workmanager.dart';
 import 'package:geolocator/geolocator.dart';
 import '../../../core/constants/prayer_method.dart';
@@ -59,6 +60,8 @@ class BackgroundWorker {
   }
 
   static Future<void> registerDailyTask() async {
+    // workmanager periodic tasks only supported on Android
+    if (!Platform.isAndroid) return;
     await Workmanager().registerPeriodicTask(
       _taskRecalculate,
       _taskRecalculate,

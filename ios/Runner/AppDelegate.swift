@@ -12,11 +12,7 @@ import UIKit
 
   func didInitializeImplicitFlutterEngine(_ engineBridge: FlutterImplicitEngineBridge) {
     GeneratedPluginRegistrant.register(with: engineBridge.pluginRegistry)
-
-    guard let controller = window?.rootViewController as? FlutterViewController else {
-      return
-    }
-
-    ScreenTimePlugin.register(with: controller.binaryMessenger)
+    // Note: ScreenTimePlugin requires FamilyControls entitlement + Xcode project setup.
+    // Register manually once the capability is approved by Apple.
   }
 }
