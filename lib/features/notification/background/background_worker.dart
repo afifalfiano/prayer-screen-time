@@ -67,9 +67,9 @@ class BackgroundWorker {
       _taskRecalculate,
       frequency: const Duration(hours: 12),
       constraints: Constraints(
-        networkType: NetworkType.not_required,
+        networkType: NetworkType.notRequired,
       ),
-      existingWorkPolicy: ExistingWorkPolicy.replace,
+      existingWorkPolicy: ExistingPeriodicWorkPolicy.replace,
     );
   }
 

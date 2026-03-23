@@ -4,7 +4,7 @@ import 'package:go_router/go_router.dart';
 import '../../features/prayer/ui/prayer_times_screen.dart';
 import '../../features/qibla/ui/qibla_screen.dart';
 import '../../features/settings/ui/settings_screen.dart';
-import '../../features/blocking/ui/app_selection_screen.dart';
+import '../../features/reflect/ui/reflect_screen.dart';
 import '../../features/onboarding/ui/onboarding_screen.dart';
 import '../../shared/widgets/app_scaffold.dart';
 
@@ -24,12 +24,12 @@ final routerProvider = Provider<GoRouter>((ref) {
             builder: (context, state) => const PrayerTimesScreen(),
           ),
           GoRoute(
-            path: '/qibla',
+            path: '/focus',
             builder: (context, state) => const QiblaScreen(),
           ),
           GoRoute(
-            path: '/blocking',
-            builder: (context, state) => const AppSelectionScreen(),
+            path: '/reflect',
+            builder: (context, state) => const ReflectScreen(),
           ),
           GoRoute(
             path: '/settings',
