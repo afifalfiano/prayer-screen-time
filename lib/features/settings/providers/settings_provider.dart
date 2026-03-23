@@ -32,6 +32,14 @@ class SettingsNotifier extends StateNotifier<UserSettings> {
     state = updated;
   }
 
+  Future<void> setPrayerNotification(String prayer, bool enabled) async {
+    final notifications = Map<String, bool>.of(state.prayerNotifications);
+    notifications[prayer] = enabled;
+    final updated = state.copyWith(prayerNotifications: notifications);
+    await _repo.saveSettings(updated);
+    state = updated;
+  }
+
   Future<void> updateLocation(double lat, double lng) async {
     await _repo.updateLocation(lat, lng);
     state = _repo.getSettings();
