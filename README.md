@@ -1,6 +1,28 @@
-# Prayer Screen Time
+# The Sacred Interval
 
-A Flutter app that calculates daily prayer times, sends Adhan notifications, provides a Qibla compass, and enforces focus mode by blocking distracting apps during prayer windows.
+> *Prayer times, Qibla compass & reflection for Muslims.*
+
+A beautifully designed Flutter app that calculates daily prayer times, sends Adhan notifications, provides a Qibla compass, and helps Muslims build a mindful daily rhythm around their prayers.
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="demo/01_onboarding.png" width="18%" alt="Onboarding – Allow Location" />
+  <img src="demo/02_onboarding_notification.png" width="18%" alt="Onboarding – Prayer Reminders" />
+  <img src="demo/02_onboarding_complete.png" width="18%" alt="Onboarding – You're All Set" />
+  <img src="demo/03_prayers.png" width="18%" alt="Prayer Times" />
+  <img src="demo/04_prayers_scrolled.png" width="18%" alt="Digital Fast & Reflection Quote" />
+</p>
+<p align="center">
+  <img src="demo/05_focus.png" width="18%" alt="Focus – Qibla Compass" />
+  <img src="demo/06_reflect.png" width="18%" alt="Reflect – Daily Journal" />
+  <img src="demo/07_settings.png" width="18%" alt="Settings – Prayer Notifications" />
+  <img src="demo/08_settings_scrolled.png" width="18%" alt="Settings – Location & App Blocking" />
+</p>
+
+---
 
 ## Features
 
